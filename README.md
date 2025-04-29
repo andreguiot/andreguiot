@@ -41,7 +41,8 @@ Sou um estudante dedicado e curioso da área de Tecnologia da Informação, com 
 ## 📫 Contato
 
 - Email: demartinguiotandre@gmail.com  
-- GitHub: [andreguiot](https://github.com/andreguiot)  
+- GitHub: [andreguiot](https://github.com/andreguiot)
+- Linkedin: https://www.linkedin.com/in/andré-de-martin-guiot-b1a5a0323/
 
 ---
 
