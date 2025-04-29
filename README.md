@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o André!
 
-🎓 Estudante de Sistemas de Informação no CEFET/RJ (3º período)  
-🤖 Trainee IEEE CEFET/RJ 
+🎓 Estudante de Sistemas de Informação no CEFET/RJ (3º período) 
+🤖 Trainee IEEE CEFET/RJ
+
 🚀 Apaixonado por programação, tecnologia e aprendizado constante  
 📍 São Gonçalo, RJ
 
