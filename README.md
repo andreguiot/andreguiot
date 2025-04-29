@@ -9,7 +9,7 @@
 📍 São Gonçalo, RJ 
 
 ---
-
+ 
 ## 💡 Sobre mim
 
 Sou um estudante dedicado da área de Tecnologia da Informação, com interesse amplo em desenvolvimento de software, automação, bancos de dados, organização de informações e inteligência artificial.  
