@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o André De Martin Guiot!
+# 👋 Olá, eu sou o André!
 
 🎓 Estudante de Sistemas de Informação no CEFET/RJ (3º período)  
 🚀 Apaixonado por programação, tecnologia e aprendizado constante  
