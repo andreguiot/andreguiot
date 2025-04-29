@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o André!
 
 🎓 Estudante de Sistemas de Informação no CEFET/RJ (3º período)  
+🤖 Trainee IEEE CEFET/RJ
 🚀 Apaixonado por programação, tecnologia e aprendizado constante  
 📍 São Gonçalo, RJ
 
@@ -8,7 +9,8 @@
 
 ## 💡 Sobre mim
 
-Sou um estudante dedicado e curioso da área de Tecnologia da Informação, com interesse amplo em desenvolvimento de software, banco de dados, automação de processos e análise de dados. Mais do que focar em uma área específica, busco me desenvolver como um programador versátil, explorando diferentes tecnologias, paradigmas e soluções.
+Sou um estudante dedicado da área de Tecnologia da Informação, com interesse amplo em desenvolvimento de software, automação, bancos de dados, organização de informações e inteligência artificial.  
+Mais do que focar em uma área específica, busco me desenvolver como um programador versátil, explorando diferentes tecnologias, paradigmas e soluções.
 
 ---
 
@@ -17,7 +19,6 @@ Sou um estudante dedicado e curioso da área de Tecnologia da Informação, com 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
