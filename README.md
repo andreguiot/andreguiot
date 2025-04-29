@@ -14,10 +14,13 @@ Sou um estudante dedicado e curioso da área de Tecnologia da Informação, com 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**: Python, C
-- **Banco de Dados**: SQL, SQL Server, Modelagem
-- **Bibliotecas Python**: Pandas, Numpy
-- **Ferramentas**: Excel, Office, Git
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
