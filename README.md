@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o André!
 
-💻Trabalho no Setor de Educação Tecnológica do Colégio La Salle Abel
-
 🎓 Estudante de Sistemas de Informação no CEFET/RJ (3º período)  
+
+💻Trabalho no Setor de Educação Tecnológica do Colégio La Salle Abel
 
 🤖 Trainee IEEE CEFET/RJ 
 
