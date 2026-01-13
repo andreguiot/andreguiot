@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o André!
 
-🎓 Estudante de Sistemas de Informação no CEFET/RJ (3º período)  
+🎓 Estudante de Sistemas de Informação no CEFET/RJ (5º período)  
 
 💻Trabalho no Setor de Educação Tecnológica do Colégio La Salle Abel
 
